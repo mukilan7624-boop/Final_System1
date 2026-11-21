@@ -3,8 +3,8 @@
 <div align="center">
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
-![Academic Year](https://img.shields.io/badge/Academic%20Year-2026--2027%20(ODD)-blue?style=for-the-badge)
-![Class](https://img.shields.io/badge/Class-25IT3A%26B-indigo?style=for-the-badge)
+![Academic Year](https://img.shields.io/badge/Academic%20Year-2026--2027%20-blue?style=for-the-badge)
+![Class](https://img.shields.io/badge/Class-25IT3A-indigo?style=for-the-badge)
 ![Student Reg No](https://img.shields.io/badge/Student%20Reg%20No-61-emerald?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-amber?style=for-the-badge)
 
